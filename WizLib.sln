@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizLib", "WizLib\WizLib.csproj", "{C6ED58EE-D4C6-4DE2-AABA-A9902DD782E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizLib_DataAccess", "WizLib_DataAccess\WizLib_DataAccess.csproj", "{CD7BBC84-4583-4FAD-BFD4-0FC6EF70F691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizLib_Model", "WizLib_Model\WizLib_Model.csproj", "{7BE400CF-2768-4439-91F4-B3D58CC6AA8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6ED58EE-D4C6-4DE2-AABA-A9902DD782E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6ED58EE-D4C6-4DE2-AABA-A9902DD782E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6ED58EE-D4C6-4DE2-AABA-A9902DD782E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6ED58EE-D4C6-4DE2-AABA-A9902DD782E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7BBC84-4583-4FAD-BFD4-0FC6EF70F691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7BBC84-4583-4FAD-BFD4-0FC6EF70F691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7BBC84-4583-4FAD-BFD4-0FC6EF70F691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7BBC84-4583-4FAD-BFD4-0FC6EF70F691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BE400CF-2768-4439-91F4-B3D58CC6AA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE400CF-2768-4439-91F4-B3D58CC6AA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE400CF-2768-4439-91F4-B3D58CC6AA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE400CF-2768-4439-91F4-B3D58CC6AA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
